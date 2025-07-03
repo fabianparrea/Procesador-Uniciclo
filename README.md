@@ -7,3 +7,5 @@ El siguiente proyecto está desarrollado en SystemVerilog y tiene como objetivo 
 <p align="center">
   <img src="Imagen.jpg" width="400">
 </p>
+
+Estudiante: Fabián Parreaguirre Hidalgo
