@@ -5,5 +5,5 @@ El siguiente proyecto está desarrollado en SystemVerilog y tiene como objetivo 
 
 
 <p align="center">
-  <img src="images/imagen.jpg" width="400">
+  <img src="imagen.jpg" width="400">
 </p>
